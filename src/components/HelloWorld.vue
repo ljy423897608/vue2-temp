@@ -71,6 +71,7 @@ export default {
   methods: {
     getData() {
       const a = 1
+      //你在
     }
   }
 }
