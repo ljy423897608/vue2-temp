@@ -70,8 +70,8 @@ export default {
   },
   methods: {
     getData() {
-      const a = 1
-      //你在
+      const a = 1;
+      cosnt b = 3;
     }
   }
 }
