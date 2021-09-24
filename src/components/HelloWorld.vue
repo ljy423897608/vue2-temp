@@ -67,6 +67,11 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  methods: {
+    getData() {
+      const a = 1
+    }
   }
 }
 </script>
