@@ -8,7 +8,6 @@
     "lint": "vue-cli-service lint",
     "stylelint": "npx stylelint src/**/*.{css,vue,sass,scss,html} --fix",
     "prepare": "husky install",
-    "postinstall": "husky install",
     "lint:lint-staged": "lint-staged -c ./.husky/.lintstagedrc.js",
     "lint:pretty": "pretty-quick --staged"
   },
