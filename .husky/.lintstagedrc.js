@@ -1,3 +1,3 @@
 module.exports = {
-  '*.{js,jsx,vue}': ['eslint --quiet']
+  '*.{js,jsx,vue}': ['eslint --no-ignore --max-warnings 1']
 }
