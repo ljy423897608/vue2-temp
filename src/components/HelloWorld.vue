@@ -72,6 +72,7 @@ export default {
     getData() {
       const c = 1
       const d = 3
+      const f = 3
     }
   }
 }
