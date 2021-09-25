@@ -70,7 +70,7 @@ export default {
   },
   methods: {
     getData() {
-      const j = 1
+      const k = 1
     }
   }
 }
