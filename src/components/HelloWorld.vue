@@ -71,6 +71,7 @@ export default {
   methods: {
     getData() {
       const c = 1
+      const d = 3
     }
   }
 }
