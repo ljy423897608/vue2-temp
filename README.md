@@ -39,4 +39,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### vscode 需要安装的插件
 
-ESLint--主要是规范 js 代码质量，如未使用的变量，强等等 Prittier--js 代码格式化 stylelint--css 格式规范 Vetur--Vue 格式规范
+1. ESLint--主要是规范 js 代码质量，如未使用的变量，强等等
+2. Prittier--js 代码格式化
+3. stylelint--css 格式规范
+4. Vetur--Vue 格式规范
+5. multi-command 快捷保存全部修改文件
