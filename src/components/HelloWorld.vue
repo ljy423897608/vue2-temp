@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div v-if="true" class="hello" @click="aaa">
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,
@@ -65,14 +65,14 @@
 <script>
 export default {
   name: 'HelloWorld',
+  props: {
+    msg: String
+  },
   methods: {
     getData() {
       const a = 90
       console.log(a)
     }
-  },
-  props: {
-    msg: String
   }
 }
 </script>
