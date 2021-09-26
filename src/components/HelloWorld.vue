@@ -70,8 +70,8 @@ export default {
   },
   methods: {
     getData() {
-      const o = 79
-      console.log(o)
+      const a = 90
+      console.log(a)
     }
   }
 }

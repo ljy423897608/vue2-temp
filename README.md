@@ -30,7 +30,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 编码规范
 
-1. js 规范, 提供 eslint 插件 (@vue/airbnb) 检测 [airbnb JavaScript 规范](https://github.com/lin-123/javascript)
+1. js 规范, 提供 eslint 插件 (@vue/airbnb) 检测 [airbnb JavaScript 规范](https://github.com/lin-123/javascript)，若要禁止违反某项规则的代码 commit，请将其规则设
+   为 2
 
 2. css 规范，提供 vs code stylelint 插件，stylelint 配置 stylelint-config-standard 插件[styleguide](https://github.com/fex-team/styleguide/blob/master/css.md)
 
