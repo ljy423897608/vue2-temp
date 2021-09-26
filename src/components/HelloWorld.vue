@@ -65,14 +65,14 @@
 <script>
 export default {
   name: 'HelloWorld',
-  props: {
-    msg: String
-  },
   methods: {
     getData() {
       const a = 90
       console.log(a)
     }
+  },
+  props: {
+    msg: String
   }
 }
 </script>
